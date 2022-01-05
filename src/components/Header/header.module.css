@@ -1,0 +1,17 @@
+.header{
+	grid-area: head;
+	background-color: silver;
+	color: orange;
+	
+	
+}
+.header img {
+	width: 45px;
+	padding: 10px;
+}
+.hederWords{
+	font-family: serif;
+	
+	font-size: 30px;
+	text-align: center;
+}

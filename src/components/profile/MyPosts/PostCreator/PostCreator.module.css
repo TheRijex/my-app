@@ -1,0 +1,6 @@
+.mainContent{
+	grid-area: cont;
+	background-color: silver;
+	text-align: center;
+	color: cornsilk;
+}

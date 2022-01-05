@@ -1,0 +1,13 @@
+.mainContent{
+	grid-area: cont;
+	background-color: silver;
+	text-align: center;
+	color: cornsilk;
+}
+
+.item{
+	text-align: center;
+	color: black;
+	font-size: 20px;
+	color: cornsilk;	
+}

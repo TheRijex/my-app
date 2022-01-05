@@ -1,0 +1,15 @@
+.navBar{
+	height: 800px;
+	background-color: silver;
+}
+.navBar div{
+	grid-area: nav;	
+	text-align: center;
+	padding: 10px 5px;
+	color: white;
+	font-size: 25px;
+	
+}
+.navBar div:last-child{
+	padding: 20px 5px;
+}
